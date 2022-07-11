@@ -8,6 +8,7 @@ P.S. Ignore debug.cpp
 # Examples
 
 ```
+$ g++ main.cpp -o main && ./main
 Enter your sudoku:
 75.2.....
 .1..96..4
