@@ -1,10 +1,10 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-#define ACTION_TYPE if (false) cout 
-#define POSITION if (false) cout 
-#define LOG_POINT if (false) cout
-#define VISUALIZE_STEPS if (false) cout
+#define ACTION_TYPE if (true) cout 
+#define POSITION if (true) cout 
+#define LOG_POINT if (true) cout
+#define VISUALIZE_STEPS if (true) cout
 
 set <int> intersect(set <int> a, set <int> b) {
 	set <int> res;
