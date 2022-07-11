@@ -27,8 +27,6 @@ string visualize(vector <int> mx) {
 	return res;
 }
 
-// int known(vector <int> mx) { int k = 0; for (int x : mx) if (x > 0) k++; return k; }
-
 int main() {
 
 	cout << "Enter your sudoku:\n";
