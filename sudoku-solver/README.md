@@ -1,6 +1,6 @@
 # Sudoku solver
 
-A simple sudoku solver written in C++. The program assumes that the input is a valid sudoku with an existing solution. test1.txt, test2.txt and test3.txt contain example puzzles.
+A simple sudoku solver written in C++. The program assumes that the input is a valid sudoku puzzle with an existing solution. test1.txt, test2.txt and test3.txt contain example puzzles.
 
 
 P.S. Ignore debug.cpp
