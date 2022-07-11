@@ -115,5 +115,5 @@ int main() {
 	}
 
 	// ouput
-	cout << "Solution:\n" << visualize(mx);
+	cout << "\nSolution:\n" << visualize(mx);
 }
